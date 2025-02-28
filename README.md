@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/969a91cc-7f60-4ab9-a8d7-8f0574f06d50)# Time Series Forecasting - Bitcoin Price Analysis
+# Time Series Forecasting - Bitcoin Price Analysis
 
 ## Overview
 
